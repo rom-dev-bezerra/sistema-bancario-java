@@ -1,4 +1,4 @@
-#Sistema Bancário em Java
+# Sistema Bancário em Java
 
 Projeto desenvolvido em Java com o objetivo de praticar e consolidar conceitos fundamentais de Programação Orientada a Objetos (POO).
 
@@ -6,7 +6,7 @@ A aplicação simula operações básicas de uma conta bancária através de uma
 
 🚧 Projeto em desenvolvimento — novas funcionalidades estão sendo adicionadas conforme avanço nos estudos de Java.
 
-##Funcionalidades
+## Funcionalidades
 
 Atualmente, o sistema possui:
 
@@ -18,7 +18,7 @@ Atualmente, o sistema possui:
 - Menu de operações no terminal
 - Estrutura preparada para novas operações
 - 
-##Em desenvolvimento
+## Em desenvolvimento
 
 - Transferência entre contas
 - Melhorias no tratamento de exceções
@@ -26,7 +26,7 @@ Atualmente, o sistema possui:
 - Integração futura com PostgreSQL
 - Containerização com Docker
 
-##Durante o desenvolvimento do projeto, estou utilizando e praticando conceitos importantes da linguagem:
+## Durante o desenvolvimento do projeto, estou utilizando e praticando conceitos importantes da linguagem:
 
 - Programação Orientada a Objetos
 - Classes e objetos
@@ -42,7 +42,7 @@ Atualmente, o sistema possui:
 - Manipulação de referências de objetos
 - Organização de responsabilidades entre classes
 
-##Estrutura do projeto
+## Estrutura do projeto
 
 sistema-bancario-java/
 │
@@ -58,7 +58,7 @@ sistema-bancario-java/
 ├── pom.xml
 └── README.md
 
-##Exemplo de funcionamento
+## Exemplo de funcionamento
 
 Ao executar a aplicação, o usuário pode interagir com o sistema através do terminal.
 
